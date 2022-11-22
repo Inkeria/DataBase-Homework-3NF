@@ -104,7 +104,7 @@ E->D
 
 ##### 输出
 
-![image-20221121215137393](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20221121215137393.png)
+![image-20221121215137393](https://raw.githubusercontent.com/Inkeria/MyImages/main/img/image-20221121215137393.png)
 
 
 
@@ -128,7 +128,7 @@ G->A
 
 ##### 输出
 
-![image-20221121215202117](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20221121215202117.png)
+![image-20221121215202117](https://raw.githubusercontent.com/Inkeria/MyImages/main/img/image-20221121215202117.png)
 
 ## 3思考与体会
 
