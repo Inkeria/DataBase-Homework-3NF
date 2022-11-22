@@ -1,0 +1,11 @@
+GABCDEF
+9
+AD->E
+AC->E
+BC->F
+BCD->A
+BD->A
+BCD->F
+AB->F
+A->C
+G->A
